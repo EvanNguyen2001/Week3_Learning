@@ -1,5 +1,5 @@
-export default function about(){
-    return(
+export default function About() {
+    return (
         <>About Page</>
     )
 }
